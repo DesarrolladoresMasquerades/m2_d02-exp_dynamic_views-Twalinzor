@@ -1,0 +1,10 @@
+{
+  "name": "Stan",
+  "hobbies": [
+    { "name": "eating" },
+    { "name": "more eating" },
+    { "name": "extra eating" }
+  ],
+  "age": 18,
+  "adult": true
+}
